@@ -3,19 +3,13 @@
 <h1 align="center">Hi 👋, I'm Divario Taufiq Adiyatma</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53 e8f453469a3ec97ecd354df465d73913.gif">
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divariotaufiq&label=Profile%20views&color=0e75b6&style=flat" alt="divariotaufiq" /> </p>
 
 - 🔭 I am a graduate of **informatics engineering at Semarang State Polytechnic**
 
 - 🌱 I’m currently learning **Laravel, Golang**
-
-- 👨‍💻 All of my projects are available at [https://divariotaufiq.github.io/](https://divariotaufiq.github.io/)
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **tdivario1@gmail.com**
 
 - ⚡ Fun fact **I study with enthusiasm**
 
